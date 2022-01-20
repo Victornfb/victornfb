@@ -1,6 +1,6 @@
 <img
      align="right"
-     height="650em"
+     height="620em"
      src="https://raw.githubusercontent.com/gist/Victornfb/02007aaa790fd0173d60529a3b94d5fb/raw/fdd1a14aa5f29df510fcc5ff664affb827abf8d9/profileCard.svg"
 />
 <h1 align="left">
