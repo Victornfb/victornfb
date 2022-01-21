@@ -32,7 +32,7 @@
 
 <br>
 
-## 🎯Contato
+## 🎯 &nbsp;Contato
 
 <p align="left">
     <a href="https://www.linkedin.com/in/victornfb/" target="_blank">
