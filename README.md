@@ -1,13 +1,13 @@
 
 <h1 align="left">
-    E aí? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Me chamo Victor Nunes!<br>
+    Victor Nunes
 </h1>
 
 - 🔥 Amante de tecnologia sempre buscando aprender e evoluir.
 
-- 🔭 Eu atualmente estou refinando meu conhecimento com ReactJs e estudando NodeJs.
+- 🔭 Eu atualmente estou refinando meu conhecimento com Node.js.
 
-- ⚡ Comecei a estudar tecnologia para montar meu computador e hoje trabalho como desenvolvedor!
+- ⚡ Tenho mais de 4 anos na área de tecnologia.
 
 <!-- - 🚀 Meu site pessoal: [victornfb.com](https://victornfb.com) -->
 
