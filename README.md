@@ -1,34 +1,29 @@
+## Hi, my name is Victor Nunes!
 
-<h1 align="left">
-    Victor Nunes
-</h1>
+- 🔥 A technology lover who is always looking to learn and evolve.
 
-- 🔥 Amante de tecnologia sempre buscando aprender e evoluir.
+- 🔭 I am currently refining my knowledge with Node.js and AWS.
 
-- 🔭 Eu atualmente estou refinando meu conhecimento com Node.js.
+- 📖 Graduated as a Bachelor of Computer Science at Faculdade das Américas (FAM) and Computer Technician by Etec Sapopemba.
 
-- ⚡ Tenho mais de 4 anos na área de tecnologia.
-
-<!-- - 🚀 Meu site pessoal: [victornfb.com](https://victornfb.com) -->
+- ⚡ I have experience as a Node.js, PHP, and React Developer, always applying good practices such as Clean Architecture, Unit and Integrated Tests (TDD), SOLID principles, and many others.
 
 <br>
 
-## 🧪 &nbsp;Arsenal Tech
+## 🧪 Tech arsenal
 
-![React](https://img.shields.io/badge/-React-202323?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-202323?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-202323?style=flat&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-202323?style=flat&logo=php)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-202323?style=flat&logo=mysql)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-202323?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-202323?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-202323?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-202323?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-202323?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-202323?style=flat&logo=github)&nbsp;
 
 <br>
 
-## 🎯 &nbsp;Contato
+## 🎯 Contact
 
 <p align="left">
     <a href="https://www.linkedin.com/in/victornfb/" target="_blank">
@@ -47,7 +42,7 @@
 
 <br>
 
-## 📊 &nbsp;Dashboard do Github
+## 📊 Github dashboard
 
 <p align="left">
     <img width="49%" height="200em" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victornfb&layout=compact" />
