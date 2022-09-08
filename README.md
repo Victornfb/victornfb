@@ -2,7 +2,7 @@
 
 - 🔥 A technology lover who is always looking to learn and evolve.
 
-- 🔭 I am currently refining my knowledge with Node.js and AWS.
+- 🔭 I am currently refining my knowledge with Docker and AWS.
 
 - 📖 Graduated as a Bachelor of Computer Science at Faculdade das Américas (FAM) and Computer Technician by Etec Sapopemba.
 
