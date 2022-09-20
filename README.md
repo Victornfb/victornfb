@@ -6,7 +6,7 @@
 
 - 📖 Graduated as a Bachelor of Computer Science at Faculdade das Américas (FAM) and Computer Technician by Etec Sapopemba.
 
-- ⚡ I have experience as a Node.js, PHP, and React Developer, always applying good practices such as Clean Architecture, Unit and Integrated Tests (TDD), SOLID principles, and many others.
+- ⚡ I have experience as a Node.js, PHP and ReactJs Developer, always applying best practices such as Clean Architecture, unit and integration tests (TDD), SOLID principles, in addition to implementing cloud services such as GCP and AWS.
 
 <br>
 
@@ -28,9 +28,6 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/victornfb/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-LinkedIn-202323?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.instagram.com/victornfb/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Instagram-202323?style=flat&logo=instagram" alt="Instagram"/>  
     </a>
     <a href="mailto:victornfb@outlook.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Email-202323?style=flat&logo=microsoft-outlook&logoColor=blue" alt="Email"/>  
